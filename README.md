@@ -10,7 +10,7 @@ This is a spin-out from the WEATHERED project. Weather-warning analyses are outs
 
 GitHub is the development copy. Cite the Zenodo archive of tag `v1.0.0-lancet-rh-europe`.
 
-**Zenodo DOI:** to be added after that tag is published.
+**Zenodo DOI:** [10.5281/zenodo.23859827](https://doi.org/10.5281/zenodo.23859827)
 
 ## Funding
 
@@ -117,4 +117,4 @@ Derived tables and figures are released under CC BY 4.0 (`LICENSE-DATA`). Centra
 
 ## Citation
 
-Until the article has a DOI, cite the Zenodo record named above. After publication, cite the article and give the Zenodo DOI as the archive of the materials.
+Until the article has a DOI, cite [10.5281/zenodo.23859827](https://doi.org/10.5281/zenodo.23859827). After publication, cite the article and give that Zenodo DOI as the archive of the materials.

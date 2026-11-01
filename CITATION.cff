@@ -1,8 +1,6 @@
 cff-version: 1.2.0
 message: >-
-  Cite the Zenodo archive of tag v1.0.0-lancet-rh-europe.
-  The DOI is intentionally blank until that Zenodo record is published.
-  Add it as a top-level doi field after publication.
+  Cite this dataset as the Zenodo archive of tag v1.0.0-lancet-rh-europe.
 type: dataset
 title: >-
   Population ageing and future regional hip fracture service burden
@@ -42,9 +40,9 @@ abstract: >-
   Funded by Taighde Éireann - Research Ireland grant 22/NCF/DR/11289.
 license: CC-BY-4.0
 version: 1.0.0-lancet-rh-europe
+doi: 10.5281/zenodo.23859827
 keywords:
   - hip fracture
   - Ireland
   - health regions
   - service planning
-# doi:
