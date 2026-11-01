@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Local CSO and geography downloads
+dataset/raw/
+
+# Editors
+.idea/
+.vscode/

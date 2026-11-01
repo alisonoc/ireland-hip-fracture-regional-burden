@@ -1,0 +1,4 @@
+model,reference,n_cases,n_events,sparse_stratum_flag,national_mean_los_reference,term,n_term_cases,sparse_term_flag,odds_ratio,or_ci_low,or_ci_high,p_value,model_fit_status
+above_national_mean_los ~ ASA grade (reference ASA I-II),ASA I-II,33178,9279,False,19.13924889987341,ASA III,17551,False,2.05367819430601,1.9468862072354345,2.1663280114131322,9.865350941017539e-154,ok
+above_national_mean_los ~ ASA grade (reference ASA I-II),ASA I-II,33178,9279,False,19.13924889987341,ASA IV,2273,False,2.947687599780889,2.6832557462130935,3.2381789168493165,1.5945490761617508e-112,ok
+above_national_mean_los ~ ASA grade (reference ASA I-II),ASA I-II,33178,9279,False,19.13924889987341,ASA V,45,False,4.393933470751296,2.445241713311955,7.895600357331814,7.415681255301207e-07,ok

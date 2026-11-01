@@ -1,0 +1,52 @@
+source,hse_health_region,hospital_name,county,hospital_model_number,specialist
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Beaumont Hospital,Dublin,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,St. Joseph's Community Hospital,Dublin,,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Cavan General Hospital,Cavan,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Connolly Hospital Blanchardstown,Dublin,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Louth County Hospital,Louth,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Mater Misericordiae University Hospital,Dublin,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Monaghan Hospital,Monaghan,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,National Orthopaedic Hospital Cappagh,Dublin,,Orthopaedic
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Our Lady of Lourdes Hospital Drogheda,Louth,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Our Lady's Hospital Navan,Meath,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Rotunda Hospital,Dublin,,Maternity
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Coombe Women & Infants University Hospital,Dublin,,Maternity
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Midland Regional Hospital Mullingar,Westmeath,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Midland Regional Hospital Portlaoise,Laois,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Midland Regional Hospital Tullamore,Offaly,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Naas General Hospital,Kildare,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,St Luke's Radiation Oncology Network,Dublin,,Oncology
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,St. James’s Hospital,Dublin,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Tallaght University Hospital,Dublin,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,Kilcreene Regional Orthopaedic Hospital,Kilkenny,,Orthopaedic
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,National Maternity Hospital,Dublin,,Maternity
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Royal Victoria Eye and Ear Hospital,Dublin,,Specialist
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,St. Columcille’s Hospital,Dublin,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,St Luke's General Hospital Kilkenny,Kilkenny,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,St. Michael’s Hospital,Dublin,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,St. Vincent’s University Hospital,Dublin,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,Tipperary General Hospital,Tipperary,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,University Hospital Waterford,Waterford,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and South East,Wexford General Hospital,Wexford,3,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,Bantry General Hospital,Cork,2,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,Cork University Hospital,Cork,4,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,Cork University Maternity Hospital,Cork,,Maternity
+Brick et al. 2025 Appendix A Table A.1,HSE South West,Mallow General Hospital,Cork,2,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,Mercy University Hospital,Cork,3,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,South Infirmary Victoria University Hospital,Cork,2,
+Brick et al. 2025 Appendix A Table A.1,HSE South West,University Hospital Kerry,Kerry,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,Croom Orthopaedic Hospital,Limerick,,Orthopaedic
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,St John's Hospital Limerick,Limerick,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,Ennis Hospital,Clare,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,Nenagh Hospital,Tipperary,2,
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,University Hospital Limerick,Limerick,4,
+Brick et al. 2025 Appendix A Table A.1,HSE Mid West,University Maternity Hospital Limerick,Limerick,,Maternity
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Galway University Hospitals,Galway,4,
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Letterkenny University Hospital,Donegal,3,
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Mayo University Hospital,Mayo,3,
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Portiuncula University Hospital,Galway,3,
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Roscommon University Hospital,Roscommon,2,
+Brick et al. 2025 Appendix A Table A.1,HSE West and North West,Sligo University Hospital,Sligo,3,
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Our Lady's Children's Hospital Crumlin,Dublin,,Paediatric
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and North East,Children's University Hospital Temple Street,Dublin,,Paediatric
+Brick et al. 2025 Appendix A Table A.1,HSE Dublin and Midlands,Children’s Health Ireland Tallaght,Dublin,,Paediatric

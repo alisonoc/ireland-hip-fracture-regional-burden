@@ -1,0 +1,25 @@
+model,age_group,asa_grade_label,predicted_los_days
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",60 - 64 years,ASA I,5.096461102357103
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",60 - 64 years,ASA II,8.190637649760331
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",60 - 64 years,ASA III,13.163358605571238
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",60 - 64 years,ASA IV,21.155130673365406
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",65 - 69 years,ASA I,6.112447872894967
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",65 - 69 years,ASA II,9.095261378432635
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",65 - 69 years,ASA III,13.533658079742255
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",65 - 69 years,ASA IV,20.137948036732105
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",70 - 74 years,ASA I,7.330973051394106
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",70 - 74 years,ASA II,10.099797241601692
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",70 - 74 years,ASA III,13.914374477487268
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",70 - 74 years,ASA IV,19.169673654660944
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",75 - 79 years,ASA I,8.79241295759515
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",75 - 79 years,ASA II,11.215280141739427
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",75 - 79 years,ASA III,14.305800838101009
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",75 - 79 years,ASA IV,18.247955916656252
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",80 - 84 years,ASA I,10.545192988014863
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",80 - 84 years,ASA II,12.453963742914441
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",80 - 84 years,ASA III,14.708238444389576
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",80 - 84 years,ASA IV,17.370556282540928
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",85 years and over,ASA I,12.647392210851402
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",85 years and over,ASA II,13.829455078219045
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",85 years and over,ASA III,15.12199705456937
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",85 years and over,ASA IV,16.53534384580056

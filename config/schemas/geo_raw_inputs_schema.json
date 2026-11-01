@@ -1,0 +1,118 @@
+{
+	"dataset_name": "geo_raw_inputs",
+	"description": "Combined schema definitions for raw and published geography inputs used by WEATHERED geography preprocessing.",
+	"schemas": {
+		"small_area": {
+			"dataset_name": "geo_small_area",
+			"columns": {
+				"SA_GUID_2022": {
+					"dtype": "string",
+					"required": true
+				},
+				"SA_NUTS1_NAME": {
+					"dtype": "string",
+					"required": true
+				},
+				"SA_NUTS2_NAME": {
+					"dtype": "string",
+					"required": true
+				},
+				"SA_NUTS3_NAME": {
+					"dtype": "string",
+					"required": true
+				},
+				"ED_ENGLISH": {
+					"dtype": "string",
+					"required": false
+				},
+				"ED_GAEILGE": {
+					"dtype": "string",
+					"required": false
+				},
+				"COUNTY_ENGLISH": {
+					"dtype": "string",
+					"required": true
+				},
+				"COUNTY_GAEILGE": {
+					"dtype": "string",
+					"required": true
+				},
+				"CSO_LEA": {
+					"dtype": "string",
+					"required": false
+				}
+			}
+		},
+		"health_lookup": {
+			"dataset_name": "geo_health_lookup",
+			"columns": {
+				"SA_GUID_2022": {
+					"dtype": "string",
+					"required": true
+				},
+				"IHA_operational_name": {
+					"dtype": "string",
+					"required": false
+				},
+				"HR_code": {
+					"dtype": "string",
+					"required": true
+				},
+				"HR_operational_name": {
+					"dtype": "string",
+					"required": true
+				},
+				"HR_guid": {
+					"dtype": "string",
+					"required": true
+				}
+			}
+		},
+		"health_regions": {
+			"dataset_name": "geo_health_regions",
+			"columns": {
+				"HR_code": {
+					"dtype": "string",
+					"required": true
+				},
+				"HR_operational_name": {
+					"dtype": "string",
+					"required": true
+				},
+				"HR_guid": {
+					"dtype": "string",
+					"required": true
+				}
+			}
+		},
+		"hospital_models": {
+			"dataset_name": "geo_hospital_models",
+			"columns": {
+				"source": {
+					"dtype": "string",
+					"required": true
+				},
+				"hse_health_region": {
+					"dtype": "string",
+					"required": true
+				},
+				"hospital_name": {
+					"dtype": "string",
+					"required": true
+				},
+				"county": {
+					"dtype": "string",
+					"required": true
+				},
+				"hospital_model_number": {
+					"dtype": "Int64",
+					"required": false
+				},
+				"specialist": {
+					"dtype": "string",
+					"required": false
+				}
+			}
+		}
+	}
+}

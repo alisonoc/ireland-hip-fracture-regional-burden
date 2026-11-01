@@ -1,0 +1,138 @@
+{
+	"dataset_name": "cso_age_groups_schema",
+	"age_group_order": [
+		"0 - 4 years",
+		"5 - 9 years",
+		"10 - 14 years",
+		"15 - 19 years",
+		"20 - 24 years",
+		"25 - 29 years",
+		"30 - 34 years",
+		"35 - 39 years",
+		"40 - 44 years",
+		"45 - 49 years",
+		"50 - 54 years",
+		"55 - 59 years",
+		"60 - 64 years",
+		"65 - 69 years",
+		"70 - 74 years",
+		"75 - 79 years",
+		"80 - 84 years",
+		"85 years and over"
+	],
+	"all_ages_label": "All ages",
+	"broad_age_group_mapping": {
+		"0 - 4 years": "0 - 9 years",
+		"5 - 9 years": "0 - 9 years",
+		"10 - 14 years": "10 - 19 years",
+		"15 - 19 years": "10 - 19 years",
+		"20 - 24 years": "20 - 29 years",
+		"25 - 29 years": "20 - 29 years",
+		"30 - 34 years": "30 - 39 years",
+		"35 - 39 years": "30 - 39 years",
+		"40 - 44 years": "40 - 49 years",
+		"45 - 49 years": "40 - 49 years",
+		"50 - 54 years": "50 - 59 years",
+		"55 - 59 years": "50 - 59 years",
+		"60 - 64 years": "60 - 69 years",
+		"65 - 69 years": "60 - 69 years",
+		"70 - 74 years": "70 - 79 years",
+		"75 - 79 years": "70 - 79 years",
+		"80 - 84 years": "80 years and over",
+		"85 years and over": "80 years and over"
+	},
+	"broad_age_group_order": [
+		"0 - 9 years",
+		"10 - 19 years",
+		"20 - 29 years",
+		"30 - 39 years",
+		"40 - 49 years",
+		"50 - 59 years",
+		"60 - 69 years",
+		"70 - 79 years",
+		"80 years and over"
+	],
+	"manuscript_age_band_order": [
+		"0-17 years",
+		"18-64 years",
+		"65-79 years",
+		"80+ years"
+	],
+	"manuscript_age_band_labels": {
+		"0-17 years": "0-17 years",
+		"18-64 years": "18-64 years",
+		"65-79 years": "65-79 years",
+		"80+ years": "80+ years"
+	},
+	"analysis_groups": {
+		"manuscript_children_0_17": [
+			"0 - 4 years",
+			"5 - 9 years",
+			"10 - 14 years"
+		],
+		"manuscript_working_age_18_64": [
+			"20 - 24 years",
+			"25 - 29 years",
+			"30 - 34 years",
+			"35 - 39 years",
+			"40 - 44 years",
+			"45 - 49 years",
+			"50 - 54 years",
+			"55 - 59 years",
+			"60 - 64 years"
+		],
+		"manuscript_age_65_79": [
+			"65 - 69 years",
+			"70 - 74 years",
+			"75 - 79 years"
+		],
+		"manuscript_age_80plus": [
+			"80 - 84 years",
+			"85 years and over"
+		],
+		"working_age_25_64": [
+			"25 - 29 years",
+			"30 - 34 years",
+			"35 - 39 years",
+			"40 - 44 years",
+			"45 - 49 years",
+			"50 - 54 years",
+			"55 - 59 years",
+			"60 - 64 years"
+		],
+		"age_50plus": [
+			"50 - 54 years",
+			"55 - 59 years",
+			"60 - 64 years",
+			"65 - 69 years",
+			"70 - 74 years",
+			"75 - 79 years",
+			"80 - 84 years",
+			"85 years and over"
+		],
+		"age_60plus": [
+			"60 - 64 years",
+			"65 - 69 years",
+			"70 - 74 years",
+			"75 - 79 years",
+			"80 - 84 years",
+			"85 years and over"
+		],
+		"age_65_79": [
+			"65 - 69 years",
+			"70 - 74 years",
+			"75 - 79 years"
+		],
+		"age_80plus": [
+			"80 - 84 years",
+			"85 years and over"
+		],
+		"age_65plus": [
+			"65 - 69 years",
+			"70 - 74 years",
+			"75 - 79 years",
+			"80 - 84 years",
+			"85 years and over"
+		]
+	}
+}

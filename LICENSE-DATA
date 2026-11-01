@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International
+
+Copyright (c) 2026 Alison N. O'Connor
+
+The derived tables in data/derived/ and the figure files in figures/ are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this material for any purpose, including commercial use, provided that you give appropriate credit, provide a link to the licence, and indicate if changes were made.
+
+Code in src/ is covered by the MIT licence in the LICENSE file, not by CC BY 4.0.
+
+Upstream material
+-----------------
+
+Central Statistics Office tables remain available from the publishers under the CSO Creative Commons Attribution 4.0 International licence:
+https://data.cso.ie/
+
+PQ_36610_23.csv and PQ_12141_26.csv are included as released in response to parliamentary questions 36610/23 and 12141/26. Cite those questions when reusing the bed-stock extracts.
+
+Patient-level Irish Hip Fracture Database records are not included. See data/RESTRICTED.md.

@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: >-
+  Cite the Zenodo archive of tag v1.0.0-lancet-rh-europe.
+  The DOI is intentionally blank until that Zenodo record is published.
+  Add it as a top-level doi field after publication.
+type: dataset
+title: >-
+  Population ageing and future regional hip fracture service burden
+  in the Republic of Ireland: aggregate tables and figures
+authors:
+  - family-names: "O'Connor"
+    given-names: Alison N.
+    affiliation: University of Limerick
+  - family-names: Harford
+    given-names: Paul
+    affiliation: University of Limerick
+  - family-names: Brent
+    given-names: Louise
+    affiliation: National Office of Clinical Audit
+  - family-names: Hickey
+    given-names: Pamela
+    affiliation: National Office of Clinical Audit
+  - family-names: Ryan
+    given-names: Damien
+    affiliation: University Hospital Limerick
+  - family-names: Cummins
+    given-names: Fergal
+    affiliation: University Hospital Limerick
+  - family-names: Garavan
+    given-names: Carrie
+    affiliation: University Hospital Limerick
+  - family-names: Vaidya
+    given-names: Gauri
+    affiliation: University of Limerick
+  - family-names: Kshirsagar
+    given-names: Meghana
+    affiliation: University of Limerick
+abstract: >-
+  Aggregate analysis tables, public bed-stock extracts, and figure files
+  for the manuscript submitted to The Lancet Regional Health - Europe.
+  Patient-level Irish Hip Fracture Database records are not included.
+  Funded by Taighde Éireann - Research Ireland grant 22/NCF/DR/11289.
+license: CC-BY-4.0
+version: 1.0.0-lancet-rh-europe
+keywords:
+  - hip fracture
+  - Ireland
+  - health regions
+  - service planning
+# doi:

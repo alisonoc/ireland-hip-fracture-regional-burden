@@ -1,0 +1,4 @@
+validation_section,validation_metric,validation_value,n_rows,n_fail_rows,pass_threshold,warn_threshold,validation_status,interpretation_note
+hhr01_hse_region_total,max_absolute_relative_error,0.02479736883395556,6,0,0.01,0.05,warn,HHR01 compares WEATHERED 2022 HSE-region totals with CSO Census 2022 reference totals.
+hhr_implied_hse_age_sex_count,max_absolute_relative_error,0.32413919090785187,216,39,0.01,0.05,fail,"Compares WEATHERED 2022 HSE age-sex counts with Census-implied counts derived from HHR01 regional totals, HHR02 within-sex age shares, and Census 2022 HSE-region sex shares from geo preprocessing."
+national_total,signed_relative_error,0.006770258095576756,1,0,0.01,0.05,pass,National total comparison using summed HHR01 regional totals and summed WEATHERED 2022 HSE-region populations.

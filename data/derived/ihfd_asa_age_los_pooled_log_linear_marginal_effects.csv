@@ -1,0 +1,7 @@
+model,age_group,age_ord,log_los_change_per_asa_step,pct_los_change_per_asa_step
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",60 - 64 years,0.0,0.47444535457726494,60.71225670636784
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",65 - 69 years,1.0,0.3974262234394307,48.7990011131981
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",70 - 74 years,2.0,0.32040709230159636,37.76884965742777
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",75 - 79 years,3.0,0.24338796116376207,27.55633971959126
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",80 - 84 years,4.0,0.16636883002592778,18.100861284084544
+"log_los ~ age_ord + asa_ord + age_ord:asa_ord (ASA I-IV, exclude ASA V)",85 years and over,5.0,0.08934969888809347,9.346297226027644

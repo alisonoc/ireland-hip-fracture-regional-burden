@@ -1,0 +1,43 @@
+table_scope,projection_method,rate_scenario,baseline_year,latest_year,age_group,age_group_manuscript_label,hse_region,hse_region_manuscript_label,projected_count_baseline,projected_count_latest
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE Dublin and North East,Dublin and North East,42,73
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE Dublin and South East,Dublin and South East,34,54
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE Dublin and Midlands,Dublin and Midlands,39,67
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE Mid West,Mid West,15,21
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE South West,South West,29,44
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,HSE West and North West,West and North West,31,45
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE Dublin and North East,Dublin and North East,68,117
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE Dublin and South East,Dublin and South East,55,88
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE Dublin and Midlands,Dublin and Midlands,59,100
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE Mid West,Mid West,28,39
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE South West,South West,47,71
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,HSE West and North West,West and North West,53,75
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE Dublin and North East,Dublin and North East,115,197
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE Dublin and South East,Dublin and South East,93,152
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE Dublin and Midlands,Dublin and Midlands,90,156
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE Mid West,Mid West,43,62
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE South West,South West,76,118
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,HSE West and North West,West and North West,85,125
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE Dublin and North East,Dublin and North East,165,301
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE Dublin and South East,Dublin and South East,138,248
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE Dublin and Midlands,Dublin and Midlands,123,228
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE Mid West,Mid West,58,96
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE South West,South West,104,180
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,HSE West and North West,West and North West,116,194
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE Dublin and North East,Dublin and North East,187,402
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE Dublin and South East,Dublin and South East,177,379
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE Dublin and Midlands,Dublin and Midlands,140,307
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE Mid West,Mid West,70,146
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE South West,South West,119,247
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,HSE West and North West,West and North West,142,293
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE Dublin and North East,Dublin and North East,332,890
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE Dublin and South East,Dublin and South East,320,877
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE Dublin and Midlands,Dublin and Midlands,238,661
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE Mid West,Mid West,127,347
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE South West,South West,211,584
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,HSE West and North West,West and North West,248,635
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,60 - 64 years,60--64,National total,National total,190,304
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,65 - 69 years,65--69,National total,National total,310,490
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,70 - 74 years,70--74,National total,National total,502,810
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,75 - 79 years,75--79,National total,National total,704,1247
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,80 - 84 years,80--84,National total,National total,835,1774
+hse_region_age_group_manuscript_projection,M1,overall_observed_rate,2022,2042,85 years and over,85+,National total,National total,1476,3994

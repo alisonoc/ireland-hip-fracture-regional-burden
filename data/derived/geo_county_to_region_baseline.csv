@@ -1,0 +1,39 @@
+county_gaeilge,county_english,county_area,hse_region,nuts3_names,n_small_areas,total_small_areas,n_hse_regions,n_county_areas,small_area_weight
+An Cabhán,Cavan,CAVAN,HSE Dublin and North East,Border,312,319,2,1,0.9780564263322884
+An Cabhán,Cavan,CAVAN,HSE West and North West,Border,7,319,2,1,0.0219435736677116
+An Clár,Clare,CLARE,HSE Mid West,Mid-West,502,502,1,1,1.0
+An Iarmhí,Westmeath,WESTMEATH,HSE Dublin and Midlands,Midlands,341,341,1,1,1.0
+An Longfort,Longford,LONGFORD,HSE Dublin and Midlands,Midlands,177,177,1,1,1.0
+An Mhí,Meath,MEATH,HSE Dublin and North East,Mid-East,679,679,1,1,1.0
+Baile Átha Cliath,Dublin,DUBLIN CITY,HSE Dublin and Midlands,Dublin,754,5076,3,4,0.14854215918045705
+Baile Átha Cliath,Dublin,DUBLIN CITY,HSE Dublin and North East,Dublin,1283,5076,3,4,0.25275807722616234
+Baile Átha Cliath,Dublin,DUBLIN CITY,HSE Dublin and South East,Dublin,224,5076,3,4,0.04412923561859732
+Baile Átha Cliath,Dublin,DUN LAOGHAIRE/RATHDOWN,HSE Dublin and South East,Dublin,804,5076,3,4,0.15839243498817968
+Baile Átha Cliath,Dublin,FINGAL,HSE Dublin and North East,Dublin,1035,5076,3,4,0.20390070921985815
+Baile Átha Cliath,Dublin,SOUTH DUBLIN,HSE Dublin and Midlands,Dublin,976,5076,3,4,0.19227738376674547
+Ceatharlach,Carlow,CARLOW,HSE Dublin and South East,South-East,213,213,1,1,1.0
+Ciarraí,Kerry,KERRY,HSE South West,South-West,692,692,1,1,1.0
+Cill Chainnigh,Kilkenny,KILKENNY,HSE Dublin and South East,South-East,370,370,1,1,1.0
+Cill Dara,Kildare,KILDARE,HSE Dublin and Midlands,Mid-East,807,807,1,1,1.0
+Cill Mhantáin,Wicklow,WICKLOW,HSE Dublin and Midlands,Mid-East,63,517,2,1,0.1218568665377176
+Cill Mhantáin,Wicklow,WICKLOW,HSE Dublin and South East,Mid-East,454,517,2,1,0.8781431334622823
+Corcaigh,Cork,CORK,HSE South West,South-West,1357,2206,1,2,0.6151405258386219
+Corcaigh,Cork,CORK CITY,HSE South West,South-West,849,2206,1,2,0.38485947416137806
+Dún na nGall,Donegal,DONEGAL,HSE West and North West,Border,720,720,1,1,1.0
+Gaillimh,Galway,GALWAY,HSE West and North West,West,736,1045,1,2,0.7043062200956938
+Gaillimh,Galway,GALWAY CITY,HSE West and North West,West,309,1045,1,2,0.29569377990430623
+Laois,Laois,LAOIS,HSE Dublin and Midlands,Midlands,315,315,1,1,1.0
+Liatroim,Leitrim,LEITRIM,HSE West and North West,Border,163,163,1,1,1.0
+Loch Garman,Wexford,WEXFORD,HSE Dublin and South East,South-East,620,620,1,1,1.0
+Luimneach,Limerick,LIMERICK,HSE Mid West,Mid-West,522,780,1,2,0.6692307692307692
+Luimneach,Limerick,LIMERICK CITY,HSE Mid West,Mid-West,258,780,1,2,0.33076923076923076
+Lú,Louth,LOUTH,HSE Dublin and North East,Mid-East,481,481,1,1,1.0
+Maigh Eo,Mayo,MAYO,HSE West and North West,West,625,625,1,1,1.0
+Muineachán,Monaghan,MONAGHAN,HSE Dublin and North East,Border,241,241,1,1,1.0
+Port Láirge,Waterford,WATERFORD,HSE Dublin and South East,South-East,277,483,1,2,0.5734989648033126
+Port Láirge,Waterford,WATERFORD CITY,HSE Dublin and South East,South-East,206,483,1,2,0.42650103519668736
+Ros Comáin,Roscommon,ROSCOMMON,HSE West and North West,West,301,301,1,1,1.0
+Sligeach,Sligo,SLIGO,HSE West and North West,Border,310,310,1,1,1.0
+Tiobraid Árann,Tipperary,NORTH TIPPERARY,HSE Mid West,Mid-West,284,640,2,2,0.44375
+Tiobraid Árann,Tipperary,SOUTH TIPPERARY,HSE Dublin and South East,Mid-West,356,640,2,2,0.55625
+Uíbh Fhailí,Offaly,OFFALY,HSE Dublin and Midlands,Midlands,296,296,1,1,1.0

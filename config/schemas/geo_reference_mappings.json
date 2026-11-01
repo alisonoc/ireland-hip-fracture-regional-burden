@@ -1,0 +1,61 @@
+{
+	"dataset_name": "geo_reference_mappings",
+	"description": "Controlled geography reference mappings used by WEATHERED geography preprocessing.",
+	"county_mapping": {
+		"An Cabhán": "Cavan",
+		"An Clár": "Clare",
+		"An Iarmhí": "Westmeath",
+		"An Longfort": "Longford",
+		"An Mhí": "Meath",
+		"Baile Átha Cliath": "Dublin",
+		"Ceatharlach": "Carlow",
+		"Ciarraí": "Kerry",
+		"Cill Chainnigh": "Kilkenny",
+		"Cill Dara": "Kildare",
+		"Cill Mhantáin": "Wicklow",
+		"Corcaigh": "Cork",
+		"Dún na nGall": "Donegal",
+		"Gaillimh": "Galway",
+		"Laois": "Laois",
+		"Liatroim": "Leitrim",
+		"Loch Garman": "Wexford",
+		"Luimneach": "Limerick",
+		"Lú": "Louth",
+		"Maigh Eo": "Mayo",
+		"Muineachán": "Monaghan",
+		"Port Láirge": "Waterford",
+		"Ros Comáin": "Roscommon",
+		"Sligeach": "Sligo",
+		"Tiobraid Árann": "Tipperary",
+		"Uíbh Fhailí": "Offaly"
+	},
+	"hse_region_name_aliases": {
+		"HR DNE | HSE Dublin and North East": "HSE Dublin and North East",
+		"HR DML | HSE Dublin and Midlands": "HSE Dublin and Midlands",
+		"HR DSE | HSE Dublin and South East": "HSE Dublin and South East",
+		"HR MW | HSE Mid West": "HSE Mid West",
+		"HR SW | HSE South West": "HSE South West",
+		"HR WNW | HSE West and North West": "HSE West and North West",
+		"HSE Midwest": "HSE Mid West",
+		"Children’s Health Ireland": "Children’s Health Ireland",
+		"Children's Health Ireland": "Children’s Health Ireland"
+	},
+	"hse_region_name_replacements": {
+		"Midwest": "Mid West",
+		"Mid-West": "Mid West",
+		"Mid west": "Mid West",
+		"&": "and"
+	},
+	"hospital_model_group_mapping": {
+		"2": "Model 2",
+		"3": "Model 3",
+		"4": "Model 4",
+		"specialist": "specialist"
+	},
+	"hospital_specialist_types": [
+		"Maternity",
+		"Paediatric",
+		"Orthopaedic",
+		"Oncology"
+	]
+}
